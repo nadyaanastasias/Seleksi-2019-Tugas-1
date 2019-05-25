@@ -1,0 +1,1616 @@
+{ Nama : "Abby" } ,
+
+
+{ Nama : "Agielba" } ,
+
+
+{ Nama : "Aglovale" } ,
+
+
+{ Nama : "Airi Totoki" } ,
+
+
+{ Nama : "Alanaan" } ,
+
+
+{ Nama : "Albert" } ,
+
+
+{ Nama : "Albert (Event)" } ,
+
+
+{ Nama : "Alec" } ,
+
+
+{ Nama : "Aletheia" } ,
+
+
+{ Nama : "Alexiel" } ,
+
+
+{ Nama : "Alistair" } ,
+
+
+{ Nama : "Aliza" } ,
+
+
+{ Nama : "Aliza (Event)" } ,
+
+
+{ Nama : "Aliza (Water)" } ,
+
+
+{ Nama : "Almeida" } ,
+
+
+{ Nama : "Almeida (Summer)" } ,
+
+
+{ Nama : "Altair" } ,
+
+
+{ Nama : "Amira" } ,
+
+
+{ Nama : "Amira (SR)" } ,
+
+
+{ Nama : "Anastasia" } ,
+
+
+{ Nama : "Andira" } ,
+
+
+{ Nama : "Andira (Event)" } ,
+
+
+{ Nama : "Ange" } ,
+
+
+{ Nama : "Ange (Halloween)" } ,
+
+
+{ Nama : "Anila" } ,
+
+
+{ Nama : "Anila (Event)" } ,
+
+
+{ Nama : "Anna" } ,
+
+
+{ Nama : "Anna (SR)" } ,
+
+
+{ Nama : "Anna (Summer)" } ,
+
+
+{ Nama : "Anne" } ,
+
+
+{ Nama : "Anre" } ,
+
+
+{ Nama : "Anthuria" } ,
+
+
+{ Nama : "Anzu Futaba" } ,
+
+
+{ Nama : "Aoidos" } ,
+
+
+{ Nama : "Aqours First-Years" } ,
+
+
+{ Nama : "Aqours Second-Years" } ,
+
+
+{ Nama : "Aqours Third-Years" } ,
+
+
+{ Nama : "Arisa" } ,
+
+
+{ Nama : "Arriet" } ,
+
+
+{ Nama : "Arthur (Event)" } ,
+
+
+{ Nama : "Arthur and Mordred" } ,
+
+
+{ Nama : "Arulumaya" } ,
+
+
+{ Nama : "Arulumaya (Holiday)" } ,
+
+
+{ Nama : "Arulumaya (Summer)" } ,
+
+
+{ Nama : "Arusha" } ,
+
+
+{ Nama : "Aster" } ,
+
+
+{ Nama : "Aster (Event)" } ,
+
+
+{ Nama : "Athena" } ,
+
+
+{ Nama : "Augusta" } ,
+
+
+{ Nama : "Ayer" } ,
+
+
+{ Nama : "Ayer (Summer)" } ,
+
+
+{ Nama : "Azazel" } ,
+
+
+{ Nama : "Baal" } ,
+
+
+{ Nama : "Bakura" } ,
+
+
+{ Nama : "Balurga" } ,
+
+
+{ Nama : "Baotorda" } ,
+
+
+{ Nama : "Baotorda (SSR)" } ,
+
+
+{ Nama : "Barawa" } ,
+
+
+{ Nama : "Barawa (Event)" } ,
+
+
+{ Nama : "Barawa (SR)" } ,
+
+
+{ Nama : "Beatrix" } ,
+
+
+{ Nama : "Beatrix (Halloween)" } ,
+
+
+{ Nama : "Beatrix (SR)" } ,
+
+
+{ Nama : "Beatrix (Themed)" } ,
+
+
+{ Nama : "Black Knight" } ,
+
+
+{ Nama : "Blazing Teacher Elmott" } ,
+
+
+{ Nama : "Bridgette" } ,
+
+
+{ Nama : "Cagliostro" } ,
+
+
+{ Nama : "Cagliostro (Dark)" } ,
+
+
+{ Nama : "Cagliostro (Event)" } ,
+
+
+{ Nama : "Cagliostro (Halloween)" } ,
+
+
+{ Nama : "Cailana" } ,
+
+
+{ Nama : "Cailana (SR)" } ,
+
+
+{ Nama : "Caim" } ,
+
+
+{ Nama : "Cain" } ,
+
+
+{ Nama : "Cain (Grand)" } ,
+
+
+{ Nama : "Camieux" } ,
+
+
+{ Nama : "Camieux (Earth)" } ,
+
+
+{ Nama : "Camieux (Summer)" } ,
+
+
+{ Nama : "Carmelina" } ,
+
+
+{ Nama : "Carmelina (SR)" } ,
+
+
+{ Nama : "Carren" } ,
+
+
+{ Nama : "Carren (Event)" } ,
+
+
+{ Nama : "Cassius (Event)" } ,
+
+
+{ Nama : "Catherine" } ,
+
+
+{ Nama : "Catherine (SR)" } ,
+
+
+{ Nama : "Cecile" } ,
+
+
+{ Nama : "Cerberus" } ,
+
+
+{ Nama : "Ceylan (Event)" } ,
+
+
+{ Nama : "Charioce XVII" } ,
+
+
+{ Nama : "Charlotta" } ,
+
+
+{ Nama : "Charlotta (Event)" } ,
+
+
+{ Nama : "Charlotta (Halloween)" } ,
+
+
+{ Nama : "Charlotta (Light)" } ,
+
+
+{ Nama : "Charlotta (Summer)" } ,
+
+
+{ Nama : "Chat Noir" } ,
+
+
+{ Nama : "Chloe" } ,
+
+
+{ Nama : "Chloe (Summer)" } ,
+
+
+{ Nama : "Christina" } ,
+
+
+{ Nama : "Chun-Li" } ,
+
+
+{ Nama : "Clarisse" } ,
+
+
+{ Nama : "Clarisse (Holiday)" } ,
+
+
+{ Nama : "Clarisse (Light)" } ,
+
+
+{ Nama : "Clarisse (Valentine)" } ,
+
+
+{ Nama : "Claudia" } ,
+
+
+{ Nama : "Conan Edogawa" } ,
+
+
+{ Nama : "Cordelia" } ,
+
+
+{ Nama : "Cucouroux" } ,
+
+
+{ Nama : "Cucouroux (SSR)" } ,
+
+
+{ Nama : "Cure Black and Cure White" } ,
+
+
+{ Nama : "Daetta" } ,
+
+
+{ Nama : "Daetta (SR)" } ,
+
+
+{ Nama : "Dante" } ,
+
+
+{ Nama : "Dante (SR)" } ,
+
+
+{ Nama : "Dante and Freiheit" } ,
+
+
+{ Nama : "Danua" } ,
+
+
+{ Nama : "Danua (Halloween)" } ,
+
+
+{ Nama : "Danua (Summer)" } ,
+
+
+{ Nama : "De La Fille" } ,
+
+
+{ Nama : "De La Fille (Earth)" } ,
+
+
+{ Nama : "De La Fille (Summer)" } ,
+
+
+{ Nama : "Deliford" } ,
+
+
+{ Nama : "Deliford (SR)" } ,
+
+
+{ Nama : "Diantha" } ,
+
+
+{ Nama : "Diantha (Summer)" } ,
+
+
+{ Nama : "Dorothy" } ,
+
+
+{ Nama : "Dorothy and Claudia" } ,
+
+
+{ Nama : "Drang" } ,
+
+
+{ Nama : "Drusilla" } ,
+
+
+{ Nama : "Eahta" } ,
+
+
+{ Nama : "Ejaeli" } ,
+
+
+{ Nama : "Elize Lutus" } ,
+
+
+{ Nama : "Elmelaura" } ,
+
+
+{ Nama : "Elmott" } ,
+
+
+{ Nama : "Elmott (Summer)" } ,
+
+
+{ Nama : "Elta" } ,
+
+
+{ Nama : "Elta (Light)" } ,
+
+
+{ Nama : "Erica Fontaine" } ,
+
+
+{ Nama : "Erin" } ,
+
+
+{ Nama : "Eso" } ,
+
+
+{ Nama : "Eso (SR)" } ,
+
+
+{ Nama : "Estarriola" } ,
+
+
+{ Nama : "Eugen" } ,
+
+
+{ Nama : "Eugen (Grand)" } ,
+
+
+{ Nama : "Eugen (Summer)" } ,
+
+
+{ Nama : "Europa" } ,
+
+
+{ Nama : "Eustace" } ,
+
+
+{ Nama : "Eustace (Dark)" } ,
+
+
+{ Nama : "Eustace (Halloween)" } ,
+
+
+{ Nama : "Ezecrain" } ,
+
+
+{ Nama : "Ezecrain (Event)" } ,
+
+
+{ Nama : "Farrah" } ,
+
+
+{ Nama : "Farrah (Event)" } ,
+
+
+{ Nama : "Farrah (SR)" } ,
+
+
+{ Nama : "Farrah (Summer)" } ,
+
+
+{ Nama : "Feather" } ,
+
+
+{ Nama : "Feather (Halloween)" } ,
+
+
+{ Nama : "Feather (SR)" } ,
+
+
+{ Nama : "Feena" } ,
+
+
+{ Nama : "Feena (Event)" } ,
+
+
+{ Nama : "Feena (Holiday)" } ,
+
+
+{ Nama : "Feower" } ,
+
+
+{ Nama : "Ferry" } ,
+
+
+{ Nama : "Ferry (Grand)" } ,
+
+
+{ Nama : "Ferry (Halloween)" } ,
+
+
+{ Nama : "Ferry (SSR)" } ,
+
+
+{ Nama : "Fif" } ,
+
+
+{ Nama : "Flesselles" } ,
+
+
+{ Nama : "Forte" } ,
+
+
+{ Nama : "Fraux" } ,
+
+
+{ Nama : "Freezie" } ,
+
+
+{ Nama : "Galadar" } ,
+
+
+{ Nama : "Galadar (SR)" } ,
+
+
+{ Nama : "Garma" } ,
+
+
+{ Nama : "Gawain" } ,
+
+
+{ Nama : "Gayne" } ,
+
+
+{ Nama : "Geisenborger" } ,
+
+
+{ Nama : "Gemini Sunrise" } ,
+
+
+{ Nama : "Ghandagoza" } ,
+
+
+{ Nama : "Ghandagoza (Summer)" } ,
+
+
+{ Nama : "Goblin Mage" } ,
+
+
+{ Nama : "Grea" } ,
+
+
+{ Nama : "Grea (Event)" } ,
+
+
+{ Nama : "Grea (Summer)" } ,
+
+
+{ Nama : "Grimnir" } ,
+
+
+{ Nama : "Haaselia" } ,
+
+
+{ Nama : "Hallessena" } ,
+
+
+{ Nama : "Haohmaru" } ,
+
+
+{ Nama : "Hazen" } ,
+
+
+{ Nama : "Hazen (SR)" } ,
+
+
+{ Nama : "Heles" } ,
+
+
+{ Nama : "Heles (Summer)" } ,
+
+
+{ Nama : "Heles (Wind)" } ,
+
+
+{ Nama : "Helnar" } ,
+
+
+{ Nama : "Helnar (Summer)" } ,
+
+
+{ Nama : "Herja" } ,
+
+
+{ Nama : "Herja (SR)" } ,
+
+
+{ Nama : "Ilsa" } ,
+
+
+{ Nama : "Ilsa (Summer)" } ,
+
+
+{ Nama : "Io" } ,
+
+
+{ Nama : "Io (Grand)" } ,
+
+
+{ Nama : "Io (Summer)" } ,
+
+
+{ Nama : "Ippatsu" } ,
+
+
+{ Nama : "Ippatsu (SR)" } ,
+
+
+{ Nama : "Ippatsu (Summer)" } ,
+
+
+{ Nama : "Izmir" } ,
+
+
+{ Nama : "Izmir (Summer)" } ,
+
+
+{ Nama : "Izuminokami Kanesada" } ,
+
+
+{ Nama : "J.J." } ,
+
+
+{ Nama : "J.J. (Summer)" } ,
+
+
+{ Nama : "Jamil" } ,
+
+
+{ Nama : "Jamil (Dark)" } ,
+
+
+{ Nama : "Jasmine" } ,
+
+
+{ Nama : "Jasmine (SR)" } ,
+
+
+{ Nama : "Jeanne d'Arc" } ,
+
+
+{ Nama : "Jeanne d'Arc (Dark)" } ,
+
+
+{ Nama : "Jeanne d'Arc (SR)" } ,
+
+
+{ Nama : "Jeanne d'Arc (Themed)" } ,
+
+
+{ Nama : "Jessica" } ,
+
+
+{ Nama : "Jessica (Event)" } ,
+
+
+{ Nama : "Jessica (Summer)" } ,
+
+
+{ Nama : "Jin (Event)" } ,
+
+
+{ Nama : "Jin (Ronin)" } ,
+
+
+{ Nama : "Jin (Themed)" } ,
+
+
+{ Nama : "Jin (Wind)" } ,
+
+
+{ Nama : "Joel" } ,
+
+
+{ Nama : "Johann" } ,
+
+
+{ Nama : "Johann (Event)" } ,
+
+
+{ Nama : "Joker" } ,
+
+
+{ Nama : "Juliet" } ,
+
+
+{ Nama : "Juri" } ,
+
+
+{ Nama : "Juri (Event)" } ,
+
+
+{ Nama : "Kanako Mimura" } ,
+
+
+{ Nama : "Kaoru Sakuraba" } ,
+
+
+{ Nama : "Karin" } ,
+
+
+{ Nama : "Karteira" } ,
+
+
+{ Nama : "Karteira (SR)" } ,
+
+
+{ Nama : "Karva" } ,
+
+
+{ Nama : "Karva (SR)" } ,
+
+
+{ Nama : "Katalina" } ,
+
+
+{ Nama : "Katalina (Dark)" } ,
+
+
+{ Nama : "Katalina (Grand)" } ,
+
+
+{ Nama : "Katalina (Summer)" } ,
+
+
+{ Nama : "Katzelia" } ,
+
+
+{ Nama : "Keehar" } ,
+
+
+{ Nama : "Kokkoro" } ,
+
+
+{ Nama : "Korwa" } ,
+
+
+{ Nama : "Korwa (SR)" } ,
+
+
+{ Nama : "Korwa (Summer)" } ,
+
+
+{ Nama : "Koume Shirasaka" } ,
+
+
+{ Nama : "Krugne" } ,
+
+
+{ Nama : "Kumbhira" } ,
+
+
+{ Nama : "La Coiffe" } ,
+
+
+{ Nama : "Ladiva" } ,
+
+
+{ Nama : "Ladiva (Holiday)" } ,
+
+
+{ Nama : "Lady Grey" } ,
+
+
+{ Nama : "Lady Grey (Halloween)" } ,
+
+
+{ Nama : "Lady Katapillar and Vira" } ,
+
+
+{ Nama : "Laguna" } ,
+
+
+{ Nama : "Lamretta" } ,
+
+
+{ Nama : "Lamretta (R)" } ,
+
+
+{ Nama : "Lamretta (Water)" } ,
+
+
+{ Nama : "Lancelot" } ,
+
+
+{ Nama : "Lancelot (Event)" } ,
+
+
+{ Nama : "Lancelot (Wind)" } ,
+
+
+{ Nama : "Lancelot and Vane" } ,
+
+
+{ Nama : "Lecia" } ,
+
+
+{ Nama : "Lecia (Grand)" } ,
+
+
+{ Nama : "Lecia (Summer)" } ,
+
+
+{ Nama : "Lennah" } ,
+
+
+{ Nama : "Leona" } ,
+
+
+{ Nama : "Leonora" } ,
+
+
+{ Nama : "Levi" } ,
+
+
+{ Nama : "Levin Sisters" } ,
+
+
+{ Nama : "Lilele" } ,
+
+
+{ Nama : "Lilele (Summer)" } ,
+
+
+{ Nama : "Lily" } ,
+
+
+{ Nama : "Lily (Event)" } ,
+
+
+{ Nama : "Lina" } ,
+
+
+{ Nama : "Lobelia" } ,
+
+
+{ Nama : "Lowain" } ,
+
+
+{ Nama : "Lowain (Event)" } ,
+
+
+{ Nama : "Lowain (Summer)" } ,
+
+
+{ Nama : "Lucio" } ,
+
+
+{ Nama : "Lucius" } ,
+
+
+{ Nama : "Lucius (Fire)" } ,
+
+
+{ Nama : "Ludmila" } ,
+
+
+{ Nama : "Luna" } ,
+
+
+{ Nama : "Lunalu" } ,
+
+
+{ Nama : "Lunalu (SSR)" } ,
+
+
+{ Nama : "Lunalu (Summer)" } ,
+
+
+{ Nama : "Lyria (Event)" } ,
+
+
+{ Nama : "Macula Marius" } ,
+
+
+{ Nama : "Magisa" } ,
+
+
+{ Nama : "Mahira" } ,
+
+
+{ Nama : "Mahira (Event)" } ,
+
+
+{ Nama : "Malinda (Attack)" } ,
+
+
+{ Nama : "Malinda (Defense)" } ,
+
+
+{ Nama : "Malinda (Event)" } ,
+
+
+{ Nama : "Maria Theresa" } ,
+
+
+{ Nama : "Mariah" } ,
+
+
+{ Nama : "Marquiares" } ,
+
+
+{ Nama : "Mary" } ,
+
+
+{ Nama : "Mary (Holiday)" } ,
+
+
+{ Nama : "Mary (SR)" } ,
+
+
+{ Nama : "Mary (Summer)" } ,
+
+
+{ Nama : "Medusa" } ,
+
+
+{ Nama : "Medusa (Promo)" } ,
+
+
+{ Nama : "Medusa (Valentine)" } ,
+
+
+{ Nama : "Melissabelle" } ,
+
+
+{ Nama : "Melissabelle (Valentine)" } ,
+
+
+{ Nama : "Melleau" } ,
+
+
+{ Nama : "Meteon (Event)" } ,
+
+
+{ Nama : "Metera" } ,
+
+
+{ Nama : "Metera (Fire)" } ,
+
+
+{ Nama : "Metera (Holiday)" } ,
+
+
+{ Nama : "Mika Jougasaki" } ,
+
+
+{ Nama : "Mikasa" } ,
+
+
+{ Nama : "Mikazuki Munechika" } ,
+
+
+{ Nama : "Miku Maekawa" } ,
+
+
+{ Nama : "Milla Maxwell" } ,
+
+
+{ Nama : "Milleore" } ,
+
+
+{ Nama : "Mimlemel" } ,
+
+
+{ Nama : "Mimlemel and Pun-Kin (Halloween)" } ,
+
+
+{ Nama : "Mimlemel and Stumpeye" } ,
+
+
+{ Nama : "Mina" } ,
+
+
+{ Nama : "Minami Nitta" } ,
+
+
+{ Nama : "Mio Honda" } ,
+
+
+{ Nama : "Miria Akagi" } ,
+
+
+{ Nama : "Mirin" } ,
+
+
+{ Nama : "Mirin (Light)" } ,
+
+
+{ Nama : "Mishra" } ,
+
+
+{ Nama : "Mizuki Kawashima" } ,
+
+
+{ Nama : "Monika" } ,
+
+
+{ Nama : "Morphe and Phoebe (Event)" } ,
+
+
+{ Nama : "Naga" } ,
+
+
+{ Nama : "Nakoruru" } ,
+
+
+{ Nama : "Naoise" } ,
+
+
+{ Nama : "Naoise (Event)" } ,
+
+
+{ Nama : "Naoise (Summer)" } ,
+
+
+{ Nama : "Narmaya" } ,
+
+
+{ Nama : "Narmaya (Summer)" } ,
+
+
+{ Nama : "Narmaya (Valentine)" } ,
+
+
+{ Nama : "Nemone" } ,
+
+
+{ Nama : "Nene" } ,
+
+
+{ Nama : "Nezahualpilli" } ,
+
+
+{ Nama : "Nezahualpilli (SR)" } ,
+
+
+{ Nama : "Nicholas" } ,
+
+
+{ Nama : "Nicholas (Event)" } ,
+
+
+{ Nama : "Nier" } ,
+
+
+{ Nama : "Nina Drango" } ,
+
+
+{ Nama : "Niyon" } ,
+
+
+{ Nama : "Noa" } ,
+
+
+{ Nama : "Norcel" } ,
+
+
+{ Nama : "Novei" } ,
+
+
+{ Nama : "Olivia" } ,
+
+
+{ Nama : "Olivia (Event)" } ,
+
+
+{ Nama : "Orchid" } ,
+
+
+{ Nama : "Owen" } ,
+
+
+{ Nama : "Pamela" } ,
+
+
+{ Nama : "Paris (Event)" } ,
+
+
+{ Nama : "Pavidus" } ,
+
+
+{ Nama : "Pecorine" } ,
+
+
+{ Nama : "Pengy" } ,
+
+
+{ Nama : "Pengy (Event)" } ,
+
+
+{ Nama : "Percival" } ,
+
+
+{ Nama : "Percival (Event)" } ,
+
+
+{ Nama : "Percival (Summer)" } ,
+
+
+{ Nama : "Petra" } ,
+
+
+{ Nama : "Petra (SSR)" } ,
+
+
+{ Nama : "Philosophia" } ,
+
+
+{ Nama : "Pholia" } ,
+
+
+{ Nama : "Predator" } ,
+
+
+{ Nama : "Rackam" } ,
+
+
+{ Nama : "Rackam (Grand)" } ,
+
+
+{ Nama : "Rackam (Holiday)" } ,
+
+
+{ Nama : "Randall" } ,
+
+
+{ Nama : "Randall (SR)" } ,
+
+
+{ Nama : "Ranko Kanzaki" } ,
+
+
+{ Nama : "Rashid" } ,
+
+
+{ Nama : "Razia" } ,
+
+
+{ Nama : "Razia (SR)" } ,
+
+
+{ Nama : "Redluck" } ,
+
+
+{ Nama : "Reinhardtzar" } ,
+
+
+{ Nama : "Richard" } ,
+
+
+{ Nama : "Richard (SR)" } ,
+
+
+{ Nama : "Rika Jougasaki" } ,
+
+
+{ Nama : "Rin Shibuya" } ,
+
+
+{ Nama : "Rita" } ,
+
+
+{ Nama : "Robertina" } ,
+
+
+{ Nama : "Robomi" } ,
+
+
+{ Nama : "Robomi (Event)" } ,
+
+
+{ Nama : "Romeo" } ,
+
+
+{ Nama : "Romeo (Event)" } ,
+
+
+{ Nama : "Rosamia" } ,
+
+
+{ Nama : "Rosamia (SR)" } ,
+
+
+{ Nama : "Rosamia (SSR)" } ,
+
+
+{ Nama : "Rosetta" } ,
+
+
+{ Nama : "Rosetta (Grand)" } ,
+
+
+{ Nama : "Rosetta (Holiday)" } ,
+
+
+{ Nama : "Rosetta (Summer)" } ,
+
+
+{ Nama : "Rosine" } ,
+
+
+{ Nama : "Rosine (SR)" } ,
+
+
+{ Nama : "Ryan" } ,
+
+
+{ Nama : "Ryan (SR)" } ,
+
+
+{ Nama : "Ryu" } ,
+
+
+{ Nama : "Sachiko Koshimizu" } ,
+
+
+{ Nama : "Sahli Lao" } ,
+
+
+{ Nama : "Sakura Kinomoto" } ,
+
+
+{ Nama : "Sakura Shinguji" } ,
+
+
+{ Nama : "Sandalphon (Event)" } ,
+
+
+{ Nama : "Sara" } ,
+
+
+{ Nama : "Sara (Event)" } ,
+
+
+{ Nama : "Sara (Summer)" } ,
+
+
+{ Nama : "Sarunan" } ,
+
+
+{ Nama : "Sarunan (Dark)" } ,
+
+
+{ Nama : "Sarya" } ,
+
+
+{ Nama : "Sarya (Event)" } ,
+
+
+{ Nama : "Scathacha" } ,
+
+
+{ Nama : "Selfira" } ,
+
+
+{ Nama : "Selfira (Event)" } ,
+
+
+{ Nama : "Sen" } ,
+
+
+{ Nama : "Sen (Holiday)" } ,
+
+
+{ Nama : "Sen (SSR)" } ,
+
+
+{ Nama : "Seofon" } ,
+
+
+{ Nama : "Seox" } ,
+
+
+{ Nama : "Seruel" } ,
+
+
+{ Nama : "Sevastien" } ,
+
+
+{ Nama : "Sevilbarra" } ,
+
+
+{ Nama : "Sevilbarra (Event)" } ,
+
+
+{ Nama : "Shao" } ,
+
+
+{ Nama : "Shiki Ichinose" } ,
+
+
+{ Nama : "Shiva" } ,
+
+
+{ Nama : "Siegfried" } ,
+
+
+{ Nama : "Siegfried (Summer)" } ,
+
+
+{ Nama : "Sig" } ,
+
+
+{ Nama : "Sig (Event)" } ,
+
+
+{ Nama : "Silva" } ,
+
+
+{ Nama : "Silva (Light)" } ,
+
+
+{ Nama : "Skull" } ,
+
+
+{ Nama : "Skull (Event)" } ,
+
+
+{ Nama : "Societte" } ,
+
+
+{ Nama : "Societte (Fire)" } ,
+
+
+{ Nama : "Sophia" } ,
+
+
+{ Nama : "Sophia (SR)" } ,
+
+
+{ Nama : "Sophie" } ,
+
+
+{ Nama : "Soriz" } ,
+
+
+{ Nama : "Soriz (Event)" } ,
+
+
+{ Nama : "Soriz (SSR)" } ,
+
+
+{ Nama : "Spinnah" } ,
+
+
+{ Nama : "Stahn Aileron" } ,
+
+
+{ Nama : "Stan" } ,
+
+
+{ Nama : "Stan (Event)" } ,
+
+
+{ Nama : "Sturm" } ,
+
+
+{ Nama : "Suframare" } ,
+
+
+{ Nama : "Suframare (Summer)" } ,
+
+
+{ Nama : "Sutera" } ,
+
+
+{ Nama : "Sutera (Event)" } ,
+
+
+{ Nama : "Sutera (Fire)" } ,
+
+
+{ Nama : "Syr (Event)" } ,
+
+
+{ Nama : "Tanya" } ,
+
+
+{ Nama : "Tanya (SR)" } ,
+
+
+{ Nama : "Tanya (SSR)" } ,
+
+
+{ Nama : "Tanya (Summer)" } ,
+
+
+{ Nama : "Tear Grants" } ,
+
+
+{ Nama : "Teena" } ,
+
+
+{ Nama : "Teena (Valentine)" } ,
+
+
+{ Nama : "Teru Tendo" } ,
+
+
+{ Nama : "The Lowain Bros" } ,
+
+
+{ Nama : "Thelonim" } ,
+
+
+{ Nama : "Therese" } ,
+
+
+{ Nama : "Therese (Event)" } ,
+
+
+{ Nama : "Therese (SSR)" } ,
+
+
+{ Nama : "Threo" } ,
+
+
+{ Nama : "Tiamat" } ,
+
+
+{ Nama : "Tien" } ,
+
+
+{ Nama : "Tsubasa" } ,
+
+
+{ Nama : "Tsubasa Kashiwagi" } ,
+
+
+{ Nama : "Tweyen" } ,
+
+
+{ Nama : "Tyre" } ,
+
+
+{ Nama : "T?ru Amuro" } ,
+
+
+{ Nama : "Ulamnuran" } ,
+
+
+{ Nama : "Uzuki Shimamura" } ,
+
+
+{ Nama : "Vajra" } ,
+
+
+{ Nama : "Vane" } ,
+
+
+{ Nama : "Vane (Event)" } ,
+
+
+{ Nama : "Vane (SSR)" } ,
+
+
+{ Nama : "Vania" } ,
+
+
+{ Nama : "Vania (SR)" } ,
+
+
+{ Nama : "Vanzza" } ,
+
+
+{ Nama : "Vanzza (SR)" } ,
+
+
+{ Nama : "Vaseraga" } ,
+
+
+{ Nama : "Vaseraga (Earth)" } ,
+
+
+{ Nama : "Veight" } ,
+
+
+{ Nama : "Vermeil" } ,
+
+
+{ Nama : "Vermeil (SR)" } ,
+
+
+{ Nama : "Viceroy" } ,
+
+
+{ Nama : "Vira" } ,
+
+
+{ Nama : "Vira (Grand)" } ,
+
+
+{ Nama : "Vira (SSR)" } ,
+
+
+{ Nama : "Vira (Summer)" } ,
+
+
+{ Nama : "Vira (Wind)" } ,
+
+
+{ Nama : "Volenna" } ,
+
+
+{ Nama : "Volenna (Event)" } ,
+
+
+{ Nama : "Walder" } ,
+
+
+{ Nama : "Walder (Event)" } ,
+
+
+{ Nama : "Walder (Holiday)" } ,
+
+
+{ Nama : "Walder (Summer)" } ,
+
+
+{ Nama : "Will" } ,
+
+
+{ Nama : "Will (SR)" } ,
+
+
+{ Nama : "Wulf and Renie" } ,
+
+
+{ Nama : "Yaia" } ,
+
+
+{ Nama : "Yaia (Holiday)" } ,
+
+
+{ Nama : "Yamanbagiri Kunihiro" } ,
+
+
+{ Nama : "Yggdrasil" } ,
+
+
+{ Nama : "Yngwie" } ,
+
+
+{ Nama : "Yodarha" } ,
+
+
+{ Nama : "Yodarha (SSR)" } ,
+
+
+{ Nama : "Young Cat (Event)" } ,
+
+
+{ Nama : "Yuel" } ,
+
+
+{ Nama : "Yuel (Event)" } ,
+
+
+{ Nama : "Yuel (Themed)" } ,
+
+
+{ Nama : "Yuel (Water)" } ,
+
+
+{ Nama : "Yuisis" } ,
+
+
+{ Nama : "Yuisis (Summer)" } ,
+
+
+{ Nama : "Yuri Lowell" } ,
+
+
+{ Nama : "Yurius" } ,
+
+
+{ Nama : "Zahlhamelina" } ,
+
+
+{ Nama : "Zaja" } ,
+
+
+{ Nama : "Zehek" } ,
+
+
+{ Nama : "Zehek (Event)" } ,
+
+
+{ Nama : "Zeta" } ,
+
+
+{ Nama : "Zeta (Dark)" } ,
+
+
+{ Nama : "Zeta (Event)" } ,
+
+
+{ Nama : "Zeta (Summer)" } ,
+
+
+{ Nama : "Zooey" } ,
+
+
+{ Nama : "Zooey (Event)" } ,
+
+
+{ Nama : "Zooey (Grand)" } ,
+
+
+{ Nama : "Zooey (Promo)" }
+
